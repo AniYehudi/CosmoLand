@@ -1,4 +1,4 @@
-﻿html, body {
+html, body {
     font-family: Arial;
     margin: 0;
     padding: 0;
@@ -296,7 +296,7 @@ li {
 
 .lang-img {
     width: 40px;
-    height: 10%;
+    height: 40%;
     display: flex;
 }
 
